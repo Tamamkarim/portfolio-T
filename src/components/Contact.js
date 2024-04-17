@@ -40,7 +40,10 @@ const Contact = () => {
           <textarea 
           className='bg-transparent border-b py-12 outline-none w-full placeholder:text-white focus:border-accent transition-all resize-none mb-12'
           placeholder='Your Message'></textarea>
+          <div> 
+          <a href='mailto:tamamkarim88@gmail.com' target='_blank' rel='noopener noreferrer'>SEND MESSGE</a>
           <button className='btn btn-lg'>Send Message</button>
+          </div>
         </motion.form>
       </div>
     </div>
