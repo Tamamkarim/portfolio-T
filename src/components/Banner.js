@@ -62,7 +62,7 @@ const Banner = () => {
         className='flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0'>
           <button className='btn btn-lg'>Contact me</button>
           <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
-                Download CV
+               Download CV
               </span>
         </motion.div>
         {/* socials media */}
@@ -72,13 +72,13 @@ const Banner = () => {
         whileInView={'show'} 
         viewport={{one: false, amount:0.7}}
         className='flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0'>
-          <a href='#'>
+          <a href='https://github.com/Tamamkarim' target='_blank'>
             <FaGithub />
           </a>
           <a href='#'>
             <FaInstagram />
           </a>
-          <a href='#'>
+          <a href='https://www.linkedin.com/feed/' target='_blank'>
             <FaLinkedin/>
           </a>
         </motion.div>
