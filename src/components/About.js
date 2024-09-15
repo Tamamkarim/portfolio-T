@@ -28,12 +28,15 @@ const About = () => {
           <h2 className='h2 text-accent'>About me.</h2>
           <h3 className='h3 mb-4'>I'm a Freelance Front-end Develiper with over 5 years of experience.</h3>
           <p className='mb-6'>
-          I am a full stack web developer with a passion for creating
-            interactive and responsive web applications. I have experience
-            working with JavaScript, React, Redux, Node.js, Express, PostgreSQL,
-            Sequelize, HTML, CSS, and Git. I am a quick learner and I am always
-            looking to expand my knowledge and skill set. I am a team player and
-            I am excited to work with others to create amazing applications.
+           Greetings from my website! I am an enthusiastic software development student who places a lot of emphasis on developing websites and applications that are user-friendly. I'm excited to start this path of creating digital experiences.
+
+React and other frameworks are of particular interest to me, and I appreciate using these potent tools to create dynamic and interactive web solutions. I enjoy using code to make ideas come to life.
+
+In addition to having experience with front-end development, I've also experimented in back-end development using Node.js and studied databases.
+
+UI/UX design is something I'm quite interested in, although I haven't had the chance to learn much about it yet. Also, code testing programs are of interest to me.
+Thank you for visiting my web page!
+         
           </p>
           {/* stats */}
           <div className='flex gap-x-6 lg:gap-x-10 mb-12'>
